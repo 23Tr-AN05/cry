@@ -101,11 +101,11 @@
 
 
 
-<form>
-  <input id="impression" name="impression" type="button" onclick="imprimer_page()" value="Imprimer cette page" />
-</form>
 
- <button onclick="window.print()">Print this page</button>
+  <input id="impression" name="impression" type="button" onclick="imprimer_page()" value="Imprimer cette page" />
+
+
+ 
 
  <hr />
  <p id="para3"> Veuillez trouver la version PDF de ce cours ci-dessous  😇 </p>
@@ -114,7 +114,7 @@
   <br /> 
  <embed type="application/pdf" src="image\Quelle_est_la_diférence_entre_la_science_et_la_croyance.pdf" width="1000" height="1500" />
 
- <script type="text/javascript">
+ <script>
  function imprimer_page(){
   window.print();
  }
