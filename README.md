@@ -59,7 +59,12 @@
  <h id="h1">« D’autres l’ont fait, faisons le ... »</h1>
  <br>
  <p id="para3"><mark>De la ligne 12 à 24:</mark>&nbsp;&nbsp; &nbsp;&nbsp;→Dénonciation des <font style="color:#AA0000"> préjugés</font> que l’on a sur la vivisection.
- <br><font style="color:#FF0000">
+ <br><font style="color:#FF0000">Pré-jugement : établir un jugement avant de savoir</font>
+ <br>&nbsp;&nbsp; &nbsp;&nbsp;→Tradition religieuse de respect des cadavres.
+ <br>&nbsp;&nbsp; &nbsp;&nbsp;→Par la pathologie, par l’absence de l’organe, on peut déduire comment celui-ci « fonctionne »
+ <br>&nbsp;&nbsp; &nbsp;&nbsp;→La médecine expérimentale est nécessaire au progrès scientifique, en passant par la manipulation du vivant.</p>
+ <br><br>
+ 
 
 
 
