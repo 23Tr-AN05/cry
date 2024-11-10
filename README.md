@@ -30,6 +30,7 @@
  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; j’oserais pourtant, et sur la simple étude des phénomènes célestes, et sur bien d’autres
  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; faits encore, soutenir et démontrer que <mark id="m1"> le monde n’a nullement été créé pour nous
  <br> &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; par une volonté divine : tant il se présente entaché de défauts</mark> !</p>
+ <button onclick="window.print()">Print this page</button>
  </div>
  <br><br>
 
@@ -56,8 +57,8 @@
      <li><p id="para3">Galien, (système cardio-vasculaire, respiratoire, digestif et nerveux) au III<sup>e</sup> siècle, a pratiqué la vivisection sur les animaux.</p></li>
      <li><p id="para3">Défense de la vivisection actuelle (au XIX<sup>e</sup> siècle) : on provoque une défaillance sur l’organe pour comprendre son importance entier.</p></li>
  </ul>
- <h id="h1">« D’autres l’ont fait, faisons le ... »</h1>
- <br>
+ <h1 id="h1">« D’autres l’ont fait, faisons le ... »</h1>
+ <br><br>
  <p id="para3"><mark>De la ligne 12 à 24:</mark>&nbsp;&nbsp; &nbsp;&nbsp;→Dénonciation des <font style="color:#AA0000"> préjugés</font> que l’on a sur la vivisection.
  <br><font style="color:#FF0000">Pré-jugement : établir un jugement avant de savoir</font>
  <br>&nbsp;&nbsp; &nbsp;&nbsp;→Tradition religieuse de respect des cadavres.
