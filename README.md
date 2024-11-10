@@ -19,6 +19,51 @@
  <div class="content">
    <p id="para3"><i>Pour qu’une pensée soit vraie, c’est-à-dire conforme à l’objet dont elle ou nie ceci <br /> ou cela (c’est une pomme, ce n’est pas une poire), il faut d’abord qu’elle soit en accord avec <br /> elle-même. La logique définit en effet les règles qui s’imposent à toute pensée vraie. Une <br /> pensée qui se contredit ne peut à l’évidence prétendre à quelque vérité que ce soit. Mais <br /> cette forme logique de la pensée suffit-elle à garantir son accord avec un contenu donné ?</i>
     <br />
+ </div>
+ <br>
+  <p id="para10"><u>Repère : Savoir ≠ Croire</u></p>
+  <p id="para3"> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  <u id="para10">Repère : Savoir ≠ Croire</u>
+ <p id="para3"><mark>De la ligne 1 à 7:</mark>
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <script>
@@ -37,5 +82,5 @@
      });
  }
  </script>
- 
+
 
