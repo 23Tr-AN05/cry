@@ -30,10 +30,7 @@
  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; j’oserais pourtant, et sur la simple étude des phénomènes célestes, et sur bien d’autres
  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; faits encore, soutenir et démontrer que <mark id="m1"> le monde n’a nullement été créé pour nous</mark>
  <br> &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; <mark id="m1">par une volonté divine : tant il se présente entaché de défauts</mark> !</p>
- <button onclick="window.print()">Print this page</button>
-
-  <input id="impression" name="impression" type="button" onclick="imprimer_page()" value="Imprimer cette page" />
-
+ 
  </div>
  <br><br>
 
@@ -102,9 +99,6 @@
 
 
 
-  <input id="impression" name="impression" type="button" onclick="imprimer_page()" value="Imprimer cette page" />
-
-
  
 
  <hr />
@@ -114,11 +108,7 @@
   <br /> 
  <embed type="application/pdf" src="image\Quelle_est_la_diférence_entre_la_science_et_la_croyance.pdf" width="1000" height="1500" />
 
- <script>
- function imprimer_page(){
-  window.print();
- }
- </script>
+ 
 
 
 
