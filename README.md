@@ -46,7 +46,14 @@
  <div class="content"><p id="para3"> 
  </p></div>
  <br><br>
- <p id="para3"><mark>De la ligne 1 à 11:</mark>&nbsp;&nbsp; &nbsp;&nbsp;Le progrès de la science a lieu grâce à l’expérimentation, c’est-à-dire à la dissection (ouverture d’un corps mort pour analyser) des cadavres mais également à la vivisection (expérience sur des animaux ou humains vivants) des vivants, en vue de comprendre « les mécanismes de la vie » (l.10)
+ <p id="para3"><mark>De la ligne 1 à 11:</mark>&nbsp;&nbsp; &nbsp;&nbsp;Le progrès de la science a lieu grâce à l’expérimentation, c’est-à-dire à la dissection (ouverture d’un corps mort pour analyser) des cadavres mais également à la vivisection (expérience sur des animaux ou humains vivants) des vivants, en vue de comprendre « les mécanismes de la vie » (l.10)</p>
+  <p id="para3" style="border: 2px solid red; padding: 20px;"><b><font sytle="color:red"><i>Étymologies :</i></font>
+  <br>⨝Dissection : du latin « dissecare » = couper en deux (secare = couper / découper)
+  <br>⨝Vivisection : du latin « vivisectio »= découper du vivant (vivus = virus / vivant)</b></p>
+
+
+ <p id="para3">
+
 
 
 
