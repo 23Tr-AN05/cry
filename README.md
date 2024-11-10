@@ -54,9 +54,12 @@
   <ul style="list-style-type:lower-alpha">
      <li><p id="para3">Dans l’histoire, on a déjà pratiqué la vivisection (les rois de Perse) sur les condamnés à la mort.</p></li>
      <li><p id="para3">Galien, (système cardio-vasculaire, respiratoire, digestif et nerveux) au III<sup>e</sup> siècle, a pratiqué la vivisection sur les animaux.</p></li>
-     <li><p id="para3">Défense de la vivisection actuelle (au XIX<sup>e</sup> siècle) : on provoque une défaillance sur l’organe pour comprendre son importance entier.</p>
+     <li><p id="para3">Défense de la vivisection actuelle (au XIX<sup>e</sup> siècle) : on provoque une défaillance sur l’organe pour comprendre son importance entier.</p></li>
  </ul>
  <h id="h1">« D’autres l’ont fait, faisons le ... »</h1>
+ <br>
+ <p id="para3"><mark>De la ligne 12 à 24:</mark>&nbsp;&nbsp; &nbsp;&nbsp;→Dénonciation des <font style="color:#AA0000"> préjugés</font> que l’on a sur la vivisection.
+ <br><font style="color:#FF0000">
 
 
 
