@@ -19,21 +19,21 @@
  <div class="content">
    <p id="para3"><i>Dans l’imagination superstitieuse, les phénomènes naturels ne sont pas des phénomènes mais des signes divines dont l’homme est le destinataire. La superstition se présente en effet la nature comme l’écritoire des volontés des dieux, et elle imagine que l’homme en est le centre. Cette imagerie demande toutefois de faire abstraction non seulement des ratés de la nature (un enfant qui naît aveugle, par exemple) mais encore des fléaux qui frappent l’homme (tels les épidémies ou les tremblements de terre). La science met-elle fin à l’ignorance dont se nourrit la superstition ?</i>
  <br>
- <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Certaines philosophes ignorants des propriétés de la matière, sont d’avis que <mark id="m1"> la
- <br> &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; nature ne pourrait, sans l’intervention des dieux, s’accommoder si harmonieusement
- <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; aux besoins des hommes</mark> pour varier les saisons, produire les moissons, ouvrir
+ <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Certaines philosophes ignorants des propriétés de la matière, sont d’avis que <mark id="m1"> la</mark>
+ <br> &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; <mark id="m1">nature ne pourrait, sans l’intervention des dieux, s’accommoder si harmonieusement</mark>
+ <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; <mark id="m1">aux besoins des hommes</mark> pour varier les saisons, produire les moissons, ouvrir
  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; enfin aux mortels toutes ces voies où les engage et les conduit lui-même ce guide 
  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; de la vie, le divin <b>P</b>laisir, qui par l’attrait des œuvres de Vénus, les invite à se reproduire
- <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  pour empêcher la mort du genre humain. <mark id="m1"> Imaginer que l’intérêt des mortels 
- <br> &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; a guidé les dieux dans la création du monde</mark>, c’est en tout point, ce me semble, s’égarer
+ <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  pour empêcher la mort du genre humain. <mark id="m1"> Imaginer que l’intérêt des mortels </mark>
+ <br> &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; <mark id="m1">a guidé les dieux dans la création du monde</mark>, c’est en tout point, ce me semble, s’égarer
  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; bien loin de la vérité. Pour moi, j’ai beau ignorer ce que sont les principes des choses,
  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; j’oserais pourtant, et sur la simple étude des phénomènes célestes, et sur bien d’autres
- <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; faits encore, soutenir et démontrer que <mark id="m1"> le monde n’a nullement été créé pour nous
- <br> &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; par une volonté divine : tant il se présente entaché de défauts</mark> !</p>
+ <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; faits encore, soutenir et démontrer que <mark id="m1"> le monde n’a nullement été créé pour nous</mark>
+ <br> &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; <mark id="m1">par une volonté divine : tant il se présente entaché de défauts</mark> !</p>
  <button onclick="window.print()">Print this page</button>
- <form>
+
   <input id="impression" name="impression" type="button" onclick="imprimer_page()" value="Imprimer cette page" />
-</form>
+
  </div>
  <br><br>
 
