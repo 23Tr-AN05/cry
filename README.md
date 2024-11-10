@@ -13,19 +13,38 @@
  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; => Religions, mythologies, croyances</p> 
  <br>
  <br>
- <p id="para9"><u><b>LUCRÈCE, <i>De la nature des choses, II</i>, I<sup>e</sup>siècle avant J.-C.(p. 524.)</b></u></p>
-     <button type="button" class="collapsible"><p id="para3"><b>LUCRÈCE</b>, « Théorie transcendantale de la méthode »,<br />Suffit-il qu'une pensée soit conforme à la logique pour qu'elle soit vrai?</p> </button>
+ <p id="para9"><u><b>LUCRÈCE, <i>De la nature des choses, II</i>, I<sup>e</sup>siècle avant J.-C.(p. 396)</b></u></p>
+     <button type="button" class="collapsible"><p id="para3"><b>LUCRÈCE</b><i>De la nature des choses, II</i><br />La science commence-t-elle là où finit la superstition?</p> </button>
 
  <div class="content">
-   <p id="para3"><i>Pour qu’une pensée soit vraie, c’est-à-dire conforme à l’objet dont elle ou nie ceci <br /> ou cela (c’est une pomme, ce n’est pas une poire), il faut d’abord qu’elle soit en accord avec <br /> elle-même. La logique définit en effet les règles qui s’imposent à toute pensée vraie. Une <br /> pensée qui se contredit ne peut à l’évidence prétendre à quelque vérité que ce soit. Mais <br /> cette forme logique de la pensée suffit-elle à garantir son accord avec un contenu donné ?</i>
-    <br /></p>
- </div>
+   <p id="para3"><i>Dans l’imagination superstitieuse, les phénomènes naturels ne sont pas des phénomènes mais des signes divines dont l’homme est le destinataire. La superstition se présente en effet la nature comme l’écritoire des volontés des dieux, et elle imagine que l’homme en est le centre. Cette imagerie demande toutefois de faire abstraction non seulement des ratés de la nature (un enfant qui naît aveugle, par exemple) mais encore des fléaux qui frappent l’homme (tels les épidémies ou les tremblements de terre). La science met-elle fin à l’ignorance dont se nourrit la superstition ?</i>
  <br>
-  <p id="para10"><u>Repère : Savoir ≠ Croire</u></p>
-  <p id="para3"> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  <u id="para10">Repère : Savoir ≠ Croire</u>
- <p id="para3"><mark>De la ligne 1 à 6:</mark>&nbsp;&nbsp; &nbsp;&nbsp;→ Nombreux philosophes qui ne sont pas scientifiques pensent que la Nature a été créée par la divinité pour les Hommes.</p<>
+ <br>Certaines philosophes ignorants des propriétés de la matière, sont d’avis que <mark id="m1"> la
+ <br> nature ne pourrait, sans l’intervention des dieux, s’accommoder si harmonieusement
+ <br>aux besoins des hommes</mark> pour varier les saisons, produire les moissons, ouvrir
+ <br>enfin aux mortels toutes ces voies où les engage et les conduit lui-même ce guide 
+ <br>de la vie, le divin <b>P</b>laisir, qui par l’attrait des œuvres de Vénus, les invite à se reproduire
+ <br> pour empêcher la mort du genre humain. <mark id="m1"> Imaginer que l’intérêt des mortels 
+ <br> a guidé les dieux dans la création du monde</mark>, c’est en tout point, ce me semble, s’égarer
+ <br>bien loin de la vérité. Pour moi, j’ai beau ignorer ce que sont les principes des choses,
+ <br>j’oserais pourtant, et sur la simple étude des phénomènes célestes, et sur bien d’autres
+ <br>faits encore, soutenir et démontrer que <mark id="m1"> le monde n’a nullement été créé pour nous par une volonté divine : tant il se présente entaché de défauts</mark> !</p>
+ </div>
+ <br><br>
+  <p id="para10"><u><mark>Repère : Savoir ≠ Croire</mark></u></p>
 
-  <img src="image/11.jpg" />
+ <p id="para3"><mark>De la ligne 1 à 6:</mark>&nbsp;&nbsp; &nbsp;&nbsp;→ Nombreux philosophes qui ne sont pas scientifiques pensent que la Nature a été créée par la divinité pour les Hommes.</p>
+ <p id="para3"><mark>De la ligne 6 à 11:</mark>&nbsp;&nbsp; &nbsp;&nbsp;→Le monde ne peut être une création des dieux puisqu’il n’est pas parfait.</p>
+ <center>  <img src="image/11.jpg" /></center>
+ <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;→ « Principe des choses » = leur origine
+ <br>&nbsp;&nbsp; &nbsp;&nbsp;Lucrèce a étudié l’<font style="color:green">astronomie</font> (catastrophe naturelle, malformations, maladies / virus, …)
+ <br><br>
+ <p id="para9"><u><b>LUCRÈCE, <i>De la nature des choses, II</i>, I<sup>e</sup>siècle avant J.-C.(p. 396)</b></u></p>
+     <button type="button" class="collapsible"><p id="para3"><b>LUCRÈCE</b><i>De la nature des choses, II</i><br />La science commence-t-elle là où finit la superstition?</p> </button>
+ <div class="content"><p id="para3"> 
+ </p></div>
+
+
 
 
 
