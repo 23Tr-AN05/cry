@@ -100,7 +100,7 @@
 
 
 
-
+ <button onclick="window.print()">Print this page</button>
 
  <hr />
  <p id="para3"> Veuillez trouver la version PDF de ce cours ci-dessous  😇 </p>
