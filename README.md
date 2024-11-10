@@ -47,12 +47,16 @@
  </p></div>
  <br><br>
  <p id="para3"><mark>De la ligne 1 à 11:</mark>&nbsp;&nbsp; &nbsp;&nbsp;Le progrès de la science a lieu grâce à l’expérimentation, c’est-à-dire à la dissection (ouverture d’un corps mort pour analyser) des cadavres mais également à la vivisection (expérience sur des animaux ou humains vivants) des vivants, en vue de comprendre « les mécanismes de la vie » (l.10)</p>
-  <p id="para3" style="border: 2px solid red; padding: 20px;"><b><font sytle="color:red"><i>Étymologies :</i></font>
+  <p id="para3" style="border: 2px solid red; padding: 20px;"><b><font style="color:red"><i>Étymologies :</i></font>
   <br>⨝Dissection : du latin « dissecare » = couper en deux (secare = couper / découper)
   <br>⨝Vivisection : du latin « vivisectio »= découper du vivant (vivus = virus / vivant)</b></p>
-
-
- <p id="para3">
+  <p id="para3"><mark>De la ligne 12 à 24:</mark>&nbsp;&nbsp; &nbsp;&nbsp;→ Arguments d’autorité:
+  <ul style="list-style-type:lower-alpha">
+     <li><p id="para3">Dans l’histoire, on a déjà pratiqué la vivisection (les rois de Perse) sur les condamnés à la mort.</p></li>
+     <li><p id="para3">Galien, (système cardio-vasculaire, respiratoire, digestif et nerveux) au III<sup>e</sup> siècle, a pratiqué la vivisection sur les animaux.</p></li>
+     <li><p id="para3">Défense de la vivisection actuelle (au XIX<sup>e</sup> siècle) : on provoque une défaillance sur l’organe pour comprendre son importance entier.</p>
+ </ul>
+ <h id="h1">« D’autres l’ont fait, faisons le ... »</h1>
 
 
 
