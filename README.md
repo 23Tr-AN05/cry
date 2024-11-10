@@ -36,7 +36,7 @@
 
  <p id="para3"><mark>De la ligne 1 à 6:</mark>&nbsp;&nbsp; &nbsp;&nbsp;→ Nombreux philosophes qui ne sont pas scientifiques pensent que la Nature a été créée par la divinité pour les Hommes.</p>
  <p id="para3"><mark>De la ligne 6 à 11:</mark>&nbsp;&nbsp; &nbsp;&nbsp;→Le monde ne peut être une création des dieux puisqu’il n’est pas parfait.</p>
- <center>  <img src="image/11.jpg" /></center>
+ <center>  <img src="image/1.jpg" /></center>
  <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;→ « Principe des choses » = leur origine
  <br>&nbsp;&nbsp; &nbsp;&nbsp;Lucrèce a étudié l’<font style="color:green">astronomie</font> (catastrophe naturelle, malformations, maladies / virus, …)
  <br><br>
