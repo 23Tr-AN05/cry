@@ -64,6 +64,50 @@
  <br>&nbsp;&nbsp; &nbsp;&nbsp;→Par la pathologie, par l’absence de l’organe, on peut déduire comment celui-ci « fonctionne »
  <br>&nbsp;&nbsp; &nbsp;&nbsp;→La médecine expérimentale est nécessaire au progrès scientifique, en passant par la manipulation du vivant.</p>
  <br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <hr />
+ <p id="para3"> Veuillez trouver la version PDF de ce cours ci-dessous  😇 </p>
+ <br />
+  <a href="image/Quelle_est_la_diférence_entre_la_science_et_la_croyance.pdf" dowload=""><p id="para3">Cliquer ici pour télécharger!</p></a>
+  <br /> 
+ <embed type="application/pdf" src="image\Quelle_est_la_diférence_entre_la_science_et_la_croyance.pdf" width="1000" height="1500" />
+
  
 
 
@@ -72,44 +116,7 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<script>
+ <script>
  var coll = document.getElementsByClassName("collapsible");
  var i;
 
