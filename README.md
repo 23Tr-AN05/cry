@@ -14,7 +14,7 @@
  <br>
  <br>
  <p id="para9"><u><b>LUCRÈCE, <i>De la nature des choses, II</i>, I<sup>e</sup>siècle avant J.-C.(p. 396)</b></u></p>
-     <button type="button" class="collapsible"><p id="para3"><b>LUCRÈCE</b><i>De la nature des choses, II</i><br />La science commence-t-elle là où finit la superstition?</p> </button>
+     <button type="button" class="collapsible"><p id="para3"><b>LUCRÈCE</b>,<i>De la nature des choses, II</i>,<br />La science commence-t-elle là où finit la superstition?</p> </button>
 
  <div class="content">
    <p id="para3"><i>Dans l’imagination superstitieuse, les phénomènes naturels ne sont pas des phénomènes mais des signes divines dont l’homme est le destinataire. La superstition se présente en effet la nature comme l’écritoire des volontés des dieux, et elle imagine que l’homme en est le centre. Cette imagerie demande toutefois de faire abstraction non seulement des ratés de la nature (un enfant qui naît aveugle, par exemple) mais encore des fléaux qui frappent l’homme (tels les épidémies ou les tremblements de terre). La science met-elle fin à l’ignorance dont se nourrit la superstition ?</i>
@@ -31,7 +31,8 @@
  <br>faits encore, soutenir et démontrer que <mark id="m1"> le monde n’a nullement été créé pour nous par une volonté divine : tant il se présente entaché de défauts</mark> !</p>
  </div>
  <br><br>
-  <p id="para10"><u><mark>Repère : Savoir ≠ Croire</mark></u></p>
+
+  <p id="para10"><u><mark id="m5">Repère : Savoir ≠ Croire</mark></u></p>
 
  <p id="para3"><mark>De la ligne 1 à 6:</mark>&nbsp;&nbsp; &nbsp;&nbsp;→ Nombreux philosophes qui ne sont pas scientifiques pensent que la Nature a été créée par la divinité pour les Hommes.</p>
  <p id="para3"><mark>De la ligne 6 à 11:</mark>&nbsp;&nbsp; &nbsp;&nbsp;→Le monde ne peut être une création des dieux puisqu’il n’est pas parfait.</p>
@@ -39,10 +40,12 @@
  <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;→ « Principe des choses » = leur origine
  <br>&nbsp;&nbsp; &nbsp;&nbsp;Lucrèce a étudié l’<font style="color:green">astronomie</font> (catastrophe naturelle, malformations, maladies / virus, …)
  <br><br>
- <p id="para9"><u><b>LUCRÈCE, <i>De la nature des choses, II</i>, I<sup>e</sup>siècle avant J.-C.(p. 396)</b></u></p>
-     <button type="button" class="collapsible"><p id="para3"><b>LUCRÈCE</b><i>De la nature des choses, II</i><br />La science commence-t-elle là où finit la superstition?</p> </button>
+ <p id="para9"><u><b>Claude BERNARD, <i>Introduction à l’étude de la médecine expérimentale</i>, XIX<sup>e</sup>siècle (p. 398)</b></u></p>
+     <button type="button" class="collapsible"><p id="para3"><b>Claude BERNARD</b>,<i>Introduction à l’étude de la médecine expérimentale</i>,<br />Les croyances religieuses sont-elles un frein à la recherche scientifique?</p> </button>
  <div class="content"><p id="para3"> 
  </p></div>
+ <br><br>
+ <p id="para3"><mark>De la ligne 1 à 11:</mark>&nbsp;&nbsp; &nbsp;&nbsp;Le progrès de la science a lieu grâce à l’expérimentation, c’est-à-dire à la dissection (ouverture d’un corps mort pour analyser) des cadavres mais également à la vivisection (expérience sur des animaux ou humains vivants) des vivants, en vue de comprendre « les mécanismes de la vie » (l.10)
 
 
 
