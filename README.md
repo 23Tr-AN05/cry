@@ -135,6 +135,8 @@
  <p id="para3"><u>Ligne 19 </u>: La « Mathématique universelle » (<i>Mathesis universalis</i>) englobe tous les domaines pour expliquer le réel.
  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;└> Les connaissances acquises par la mathématique vont permettre d’expliquer également des éléments nouveaux et complexes.</p>
  <br><br>
+
+
  <p id="para9"><u><b>Claude BERNARD, <i>Introduction à l’étude de la médecine expérimentale</i>, XIX<sup>e</sup>siècle (p. 414)</b></u></p>
      <button type="button" class="collapsible"><p id="para3"><b>Claude BERNARD,</b>,<i>Introduction à l’étude de la médecine expérimentale</i>,
      <br />Qui est le sujet de la science?</p> </button>
@@ -144,12 +146,39 @@
 
 
  </p></div>
+
+ <p id="para9"><u><b>Henri BERGSON, <i> L’évolution créatrice</i>, XX<sup>e</sup>siècle (p. 422)</b></u></p>
+     <button type="button" class="collapsible"><p id="para3"><b>Henri BERGSON,</b>,<i> L’évolution créatrice</i>,
+     <br />La science nous dévoile-t-elle le réel?</p> </button>
+ <div class="content"><p id="para3"> 
+
+
+
+
+ </p></div>
  <br><br>
- <center> <img src="image/3.jpg"  /></center><br><br>
+
+ <center> <img src="image/4.jpg"  /></center><br><br>
 
 
- 
+  <br><br>
+  <p id="para9"><u><b> Nicolas MALEBRANCHE, <i> Lettre à Dortous de Mairan</i>, XVIII<sup>e</sup>siècle (p. 423)</b></u></p>
+     <button type="button" class="collapsible"><p id="para3"><b> Nicolas MALEBRANCHE,</b>,<i>Lettre à Dortous de Mairan</i>,
+     <br />Les vérités de la foi sont-elles démontrables?</p> </button>
+ <div class="content"><p id="para3"> 
 
+
+
+
+ </p></div>
+ <br><br>
+ <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;→ Référence à René DESCARTES : reprise de vocabulaire cartésien : </p>
+ <center> <img src="image/5.jpg"  /></center><br><br>
+ <p idd="para3">&nbsp;&nbsp; &nbsp;&nbsp;→ Ces connaissances sont accessibles à l’âme mais pas la connaissance de Dieu, d’où la nécessité de s’appuyer sur les dogmes (= doctrines qui sont révélées dans des textes sacrés).
+
+ <br>
+ <br>&nbsp;&nbsp; &nbsp;&nbsp;→ Pour Nicolas MALBRANCHE, contrairement à René DESCARTES, Dieu est inaccessible à la pensée humaine qui est finie, tandis que Dieu est infini.
+<br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; └> Nous ne pouvons pas penser l’infini.
 
 
 
