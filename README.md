@@ -23,12 +23,12 @@
  <br> &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; <mark id="m1">nature ne pourrait, sans l’intervention des dieux, s’accommoder si harmonieusement</mark>
  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; <mark id="m1">aux besoins des hommes</mark> pour varier les saisons, produire les moissons, ouvrir
  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; enfin aux mortels toutes ces voies où les engage et les conduit lui-même ce guide 
- <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; de la vie, le divin <b>P</b>laisir, qui par l’attrait des œuvres de Vénus, les invite à se reproduire
+ <br>5&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; de la vie, le divin <b>P</b>laisir, qui par l’attrait des œuvres de Vénus, les invite à se reproduire
  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  pour empêcher la mort du genre humain. <mark id="m1"> Imaginer que l’intérêt des mortels </mark>
  <br> &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; <mark id="m1">a guidé les dieux dans la création du monde</mark>, c’est en tout point, ce me semble, s’égarer
  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; bien loin de la vérité. Pour moi, j’ai beau ignorer ce que sont les principes des choses,
  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; j’oserais pourtant, et sur la simple étude des phénomènes célestes, et sur bien d’autres
- <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; faits encore, soutenir et démontrer que <mark id="m1"> le monde n’a nullement été créé pour nous</mark>
+ <br>10&nbsp;&nbsp; &nbsp; faits encore, soutenir et démontrer que <mark id="m1"> le monde n’a nullement été créé pour nous</mark>
  <br> &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; <mark id="m1">par une volonté divine : tant il se présente entaché de défauts</mark> !</p>
  
  </div>
@@ -40,12 +40,18 @@
  <p id="para3"><mark>De la ligne 6 à 11:</mark>&nbsp;&nbsp; &nbsp;&nbsp;→Le monde ne peut être une création des dieux puisqu’il n’est pas parfait.</p>
  <center>  <img src="image/1.jpg" /></center>
  <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;→ « Principe des choses » = leur origine
- <br>&nbsp;&nbsp; &nbsp;&nbsp;Lucrèce a étudié l’<font style="color:green">astronomie</font> (catastrophe naturelle, malformations, maladies / virus, …)
+ <br>&nbsp;&nbsp; &nbsp;&nbsp;Lucrèce a étudié l’<font style="color:#00FF00">astronomie</font> (catastrophe naturelle, malformations, maladies / virus, …)
  <br><br>
  <p id="para9"><u><b>Claude BERNARD, <i>Introduction à l’étude de la médecine expérimentale</i>, XIX<sup>e</sup>siècle (p. 398)</b></u></p>
      <button type="button" class="collapsible"><p id="para3"><b>Claude BERNARD</b>,<i>Introduction à l’étude de la médecine expérimentale</i>,<br />Les croyances religieuses sont-elles un frein à la recherche scientifique?</p> </button>
  <div class="content"><p id="para3"> 
- </p></div>
+
+
+
+
+
+  </p></div>
+
  <br><br>
  <p id="para3"><mark>De la ligne 1 à 11:</mark>&nbsp;&nbsp; &nbsp;&nbsp;Le progrès de la science a lieu grâce à l’expérimentation, c’est-à-dire à la dissection (ouverture d’un corps mort pour analyser) des cadavres mais également à la vivisection (expérience sur des animaux ou humains vivants) des vivants, en vue de comprendre « les mécanismes de la vie » (l.10)</p>
   <p id="para3" style="border: 2px solid red; padding: 20px;"><b><font style="color:red"><i>Étymologies :</i></font>
@@ -59,12 +65,91 @@
  </ul>
  <h1 id="h1">« D’autres l’ont fait, faisons le ... »</h1>
  <br><br>
- <p id="para3"><mark>De la ligne 12 à 24:</mark>&nbsp;&nbsp; &nbsp;&nbsp;→Dénonciation des <font style="color:#AA0000"> préjugés</font> que l’on a sur la vivisection.
+ <p id="para3"><mark>De la ligne 25 à 30:</mark>&nbsp;&nbsp; &nbsp;&nbsp;→Dénonciation des <font style="color:#AA0000"> préjugés</font> que l’on a sur la vivisection.
  <br><font style="color:#FF0000">Pré-jugement : établir un jugement avant de savoir</font>
  <br>&nbsp;&nbsp; &nbsp;&nbsp;→Tradition religieuse de respect des cadavres.
  <br>&nbsp;&nbsp; &nbsp;&nbsp;→Par la pathologie, par l’absence de l’organe, on peut déduire comment celui-ci « fonctionne »
  <br>&nbsp;&nbsp; &nbsp;&nbsp;→La médecine expérimentale est nécessaire au progrès scientifique, en passant par la manipulation du vivant.</p>
  <br><br>
+ <p id="para9"><u><b>François JACOB, <i>Le jeu des possibles</i>, XX<sup>e</sup>siècle (p. 402)</b></u></p>
+     <button type="button" class="collapsible"><p id="para3"><b>François JACOB</b>,<i>Le jeu des  possibles</i>,
+     <br />La science est-elle une mythe moderne?</p> </button>
+ <div class="content"><p id="para3"> <i>En nous donnant des outils intellectuels qui projettent une lumière rationnelle sur la nature, la science ramène l’inconnu au connu et traite ainsi l’angoisse devant ce que nous ne savons pas expliquer. Dans cette mesure, n’est on pas en droit de la voir comme une sorte de mythologie moderne ? La science et la croyance appartiennent-elles à deux domaines fondamentalement étrangers ? Ne relèvent-elles pas, l’une comme l’autre, d’une seule et même fabrique d’images rassurantes ? </i>
+ <br>
+ <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;À certains égards mythe et science remplissent une même fonction. Ils fournissent
+ <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; tous deux à l’esprit humain une certaines représentation du monde et des forces
+ <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;qu’il anime. […]
+ <br>
+ <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;Dans leurs efforts pour remplir leur fonction de trouver un ordre dans le chaos du
+ <br>5&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;monde, mythes et théories scientifiques opèrent selon le même principe. Il s’agit
+ <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;toujours d’expliquer le monde visible par des forces invisibles, d’articuler ce qu’on 
+ <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;observe sur ce qu’on imagine. On peut considérer la foudre comme l’expression de
+ <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;la colère de Zeus ou comme un phénomène électrostatique. On peut voir dans
+ <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; une maladie l’effet d’un mauvais sort ou d’une infection microbienne. Mais, de toute
+ <br>10&nbsp;&nbsp; &nbsp;&nbsp; façon, expliquer un phénomène c’est considérer l’effet visible d’une cause cachée,  
+ <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;liée à l’ensemble des forces invisibles qui sont censées régir le monde.
+ <br>
+ <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;Mythique ou scientifique, la représentation du monde que construit l’homme fait 
+ <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;toujours une large part à son imagination. Car contrairement à ce qu’on croit souvent, 
+ <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;la démarche scientifiques ne consiste pas simplement à observer, à accumuler 
+ <br>15&nbsp;&nbsp; &nbsp;&nbsp;des données expérimentales pour en déduire une théorie. On peut parfaitement
+ <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; examiner un objet pendant des années sans jamais en tirer la moindre observation 
+ <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;d’intérêt scientifique. Pour apporter une observation de quelque valeur, il faut déjà,
+ <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;au départ, avoir une certaines idée de ce qu’il y a à observer. Si la science évolue, c’est
+ <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;souvent parce qu’un aspect encore inconnu des choses se dévoile soudain ; pas 
+ <br>20&nbsp;&nbsp; &nbsp;&nbsp;toujours comme conséquence de l’apparition d’un appareillage nouveau, mais grâce
+ <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;à une manière nouvelle d’examiner les objets, de les considérer sous un angle neuf. 
+ <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;Ce regard est nécessairement guidé par une certaine idée de ce que peut bien être
+ <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;la « réalité ». Il implique toujours une certaine conception de l’inconnu, de cette  
+ <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;zone située juste au-delà de ce que la et l’expérience autorisent à croire. 
+ </p></div>
+ 
+ <br><br>
+ <p id="para10"><u><mark id="m5">Repère : Savoir ≠ Croire</mark></u></p>
+ <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;Points communs entre les mythes (croire) et la science :<br>
+  <ul style="list-style-type:lower-alpha">
+     <li><p id="para3">Ils proposent une représentation de monde et des forces qu’il anime. (Ex : la force de la gravité)</p></li>
+     <li><p id="para3">Ils trouvent un ordre dans le chaos du monde, à l’aide des lois.</p></li>
+     <li><p id="para3">Ils expliquent le monde visible (les phénomènes) par des forces invisibles (attraction terrestre).</p></li>
+     <li><p id="para3">Ils articulent ce que l’on observe (les phénomènes/ les faits) que l’on imagine (référence à EINSTEIN et INFELD)</p></li>
+ </ul>
+ <br>Ex : Colère de Zeus (mythe) / Phénomène électrostatique (science) => FOUDRE
+ <br>
+ <br>&nbsp;&nbsp; &nbsp;&nbsp;→ L’importance de l’imagination même en science
+ <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;└> Face aux phénomènes, la scientifique imagine une théorie explicative du réel, donc de l’inconnu; cette théorie explicative est bornée par la logique et par les résultats des expérimentations.
+ <br>&nbsp;&nbsp; &nbsp;&nbsp;Mais cette théorie explicative imaginée est toujours de l’ordre de la croyance.</p>
+ <br><br>
+ <p id="para9"><u><b>René DESCARTES, <i>Règles pour la direction de l’esprit</i>, XVII<sup>e</sup>siècle (p. 408)</b></u></p>
+     <button type="button" class="collapsible"><p id="para3"><b>René DESCARTES</b>,<i>Règles pour la direction de l’esprit</i>,
+     <br />Y a-t-il des objets qui échappent à la science?</p> </button>
+ <div class="content"><p id="para3"> 
+
+
+
+
+ </p></div>
+ 
+ <br><br>
+ <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;→ Différents domaines comme l’astronomie, la musique, la mécanique, utilisent les mathématiques, arithmétiques, la géométrie.</p>
+ <br><center>  <img src="image/2.jpg" /></center><br>
+ <p id="para3"><u>Ligne 19 </u>: La « Mathématique universelle » (<i>Mathesis universalis</i>) englobe tous les domaines pour expliquer le réel.
+ <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;└> Les connaissances acquises par la mathématique vont permettre d’expliquer également des éléments nouveaux et complexes.</p>
+ <br><br>
+ <p id="para9"><u><b>Claude BERNARD, <i>Introduction à l’étude de la médecine expérimentale</i>, XIX<sup>e</sup>siècle (p. 414)</b></u></p>
+     <button type="button" class="collapsible"><p id="para3"><b>Claude BERNARD,</b>,<i>Introduction à l’étude de la médecine expérimentale</i>,
+     <br />Qui est le sujet de la science?</p> </button>
+ <div class="content"><p id="para3"> 
+
+
+
+
+ </p></div>
+ <br><br>
+ <center> <img src="image/3.jpg"  /></center><br><br>
+
+
+ 
+
 
 
 
