@@ -138,7 +138,7 @@
 
 
  <p id="para9"><u><b>Claude BERNARD, <i>Introduction à l’étude de la médecine expérimentale</i>, XIX<sup>e</sup>siècle (p. 414)</b></u></p>
-     <button type="button" class="collapsible"><p id="para3"><b>Claude BERNARD,</b>,<i>Introduction à l’étude de la médecine expérimentale</i>,
+     <button type="button" class="collapsible"><p id="para3"><b>Claude BERNARD</b>,<i>Introduction à l’étude de la médecine expérimentale</i>,
      <br />Qui est le sujet de la science?</p> </button>
  <div class="content"><p id="para3"> 
 
@@ -149,7 +149,7 @@
  <center> <img src="image/3.jpg"  /></center><br><br>
 
  <p id="para9"><u><b>Henri BERGSON, <i> L’évolution créatrice</i>, XX<sup>e</sup>siècle (p. 422)</b></u></p>
-     <button type="button" class="collapsible"><p id="para3"><b>Henri BERGSON,</b>,<i> L’évolution créatrice</i>,
+     <button type="button" class="collapsible"><p id="para3"><b>Henri BERGSON</b>,<i> L’évolution créatrice</i>,
      <br />La science nous dévoile-t-elle le réel?</p> </button>
  <div class="content"><p id="para3"> 
 
@@ -164,7 +164,7 @@
 
   <br><br>
   <p id="para9"><u><b> Nicolas MALEBRANCHE, <i> Lettre à Dortous de Mairan</i>, XVIII<sup>e</sup>siècle (p. 423)</b></u></p>
-     <button type="button" class="collapsible"><p id="para3"><b> Nicolas MALEBRANCHE,</b>,<i>Lettre à Dortous de Mairan</i>,
+     <button type="button" class="collapsible"><p id="para3"><b> Nicolas MALEBRANCHE</b>,<i>Lettre à Dortous de Mairan</i>,
      <br />Les vérités de la foi sont-elles démontrables?</p> </button>
  <div class="content"><p id="para3"> 
 
@@ -181,9 +181,29 @@
  <br>&nbsp;&nbsp; &nbsp;&nbsp;→ Pour Nicolas MALBRANCHE, contrairement à René DESCARTES, Dieu est inaccessible à la pensée humaine qui est finie, tandis que Dieu est infini.
  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; └> Nous ne pouvons pas penser l’infini.</p>
 
+ <br><br>
+ <p id="para9"><u><b>Blaise PASCAL, <i>Pensées</i>, XVII<sup>e</sup>siècle (p. 337)</b></u></p>
+     <button type="button" class="collapsible"><p id="para3"><b>Blaise PASCAL</b>,<i>Pensées</i>,
+     <br />Les vérités de la raison dépendent-elles des vérités du cœur?</p> </button>
+ <div class="content"><p id="para3"> 
 
 
 
+
+ </p></div>
+ <center> <img src="image/6.jpg"  /></center><br><br>
+
+<br><br>
+ <p id="para9"><u><b>René DESCARTES, <i>Discours de la méthode</i>, XVII<sup>e</sup>siècle (p. 336)</b></u></p>
+     <button type="button" class="collapsible"><p id="para3"><b>René DESCARTES</b>,<i>Discours de la méthode</i>,
+     <br />La raison est-elle le critère de vérité?</p> </button>
+ <div class="content"><p id="para3"> 
+
+
+
+
+ </p></div>
+ <center> <img src="image/7.jpg"  /></center><br><br>
 
 
 
