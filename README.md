@@ -106,14 +106,14 @@
  
  <br><br>
  <p id="para10"><u><mark id="m5">Repère : Savoir ≠ Croire</mark></u></p>
- <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;Points communs entre les mythes (croire) et la science :<br>
+ <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;Points communs entre les mythes (croire) et la science :<br></p>
   <ul style="list-style-type:lower-alpha">
      <li><p id="para3">Ils proposent une représentation de monde et des forces qu’il anime. (Ex : la force de la gravité)</p></li>
      <li><p id="para3">Ils trouvent un ordre dans le chaos du monde, à l’aide des lois.</p></li>
      <li><p id="para3">Ils expliquent le monde visible (les phénomènes) par des forces invisibles (attraction terrestre).</p></li>
      <li><p id="para3">Ils articulent ce que l’on observe (les phénomènes/ les faits) que l’on imagine (référence à EINSTEIN et INFELD)</p></li>
  </ul>
- <br>Ex : Colère de Zeus (mythe) / Phénomène électrostatique (science) => FOUDRE
+ <p id="para3">Ex : Colère de Zeus (mythe) / Phénomène électrostatique (science) => FOUDRE
  <br>
  <br>&nbsp;&nbsp; &nbsp;&nbsp;→ L’importance de l’imagination même en science
  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;└> Face aux phénomènes, la scientifique imagine une théorie explicative du réel, donc de l’inconnu; cette théorie explicative est bornée par la logique et par les résultats des expérimentations.
