@@ -4,7 +4,7 @@
     <link href="style.css" rel="stylesheet" type="text/css"/>
  </head>
  <body>
- <h1 id="para1">QUELLE EST LA DIFFÉRENCE ENTRE LA SCIENCE ET LA CROYANCE?</h1>
+ <p id="para1">QUELLE EST LA DIFFÉRENCE ENTRE LA SCIENCE ET LA CROYANCE?</p>
  <h2 id="para2">Quel est l’objet de la science?</h2>
  <h2 id="para2">Quelles sont les limites de la science?</h2>
  <br />
