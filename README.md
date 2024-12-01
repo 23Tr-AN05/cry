@@ -193,7 +193,7 @@
  </p></div>
  <center> <img src="image/6.jpg"  /></center><br><br>
 
-<br><br>
+ <br><br>
  <p id="para9"><u><b>René DESCARTES, <i>Discours de la méthode</i>, XVII<sup>e</sup>siècle (p. 336)</b></u></p>
      <button type="button" class="collapsible"><p id="para3"><b>René DESCARTES</b>,<i>Discours de la méthode</i>,
      <br />La raison est-elle le critère de vérité?</p> </button>
@@ -206,25 +206,94 @@
  <center> <img src="image/7.jpg"  /></center><br><br>
 
 
+ <br><br>
+ <p id="para9"><u><b>ALAIN, <i>Mars ou la Guerre jugée</i>, XX<sup>e</sup>siècle (p. 340)</b></u></p>
+     <button type="button" class="collapsible"><p id="para3"><b>ALAIN</b>,<i>Mars ou la Guerre jugée</i>,
+     <br />Suffit-il d'être rationnel pour se montrer raisonnable?</p> </button>
+ <div class="content"><p id="para3"> 
 
 
 
 
+ </p></div>
+ <br><br>
+ <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;→Distinction entre la raison au sens de la rationalité (au service de la vérité) et avoir raison (au service de son ego, de son narcissisme).
+ <br>
+ <br> &nbsp;&nbsp; &nbsp;&nbsp;→ Situation : Des individus qui disputent, débattent.
+  <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;└> La nécessité de faire preuve de politesse. 
+  <br><font style="color:#FF0000">Politesse (lisse→ poli) : ne pas laisser s’exprimer son impulsivité ; idée de se contenir</font>
+  <br><br>&nbsp;&nbsp; &nbsp;&nbsp;→ La politesse sert la paix car elle implique de ne pas montrer à autrui qu’il se trompe et de soi-même assumer ses erreurs, ses fautes.<br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;(morale → mauvais comportement vis-à-vis d’autrui) 
+  <br><br>&nbsp;&nbsp; &nbsp;&nbsp;→on ne recherche pas la justice au sens de la vérité.
+  <br><br>&nbsp;&nbsp; &nbsp;&nbsp;→ La non expression de nos passions permet de maintenir la paix, grâce au savoir-vivre.</p>
+
+  
+   
+ <br><br>
+ <p id="para9"><u><b>Herbert MARCUSE, <i>L’Homme unidimensionnel</i>, XX<sup>e</sup>siècle (p. 341)</b></u></p>
+     <button type="button" class="collapsible"><p id="para3"><b>Herbert MARCUSE</b>,<i>L’Homme unidimensionnel</i>,
+     <br />La rationalité peut-elle être monstrueue?</p> </button>
+ <div class="content"><p id="para3"> 
 
 
 
 
+ </p></div>
+ <br><br>
+ <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;→La science moderne a fourni les outils rationnels de contrôle de la société.
+ <br><br>&nbsp;&nbsp; &nbsp;&nbsp;→La science moderne a mis en place des théories mises en pratique d’abord en vue de dominer la nature. Et, ces théories ont également été appliquées pour dominer les Hommes. 
+ <br>&nbsp;&nbsp; &nbsp;&nbsp;└> un contrôle, une maîtrise de la nature qui a conduit aux mêmes pratiques pour dominer les Hommes. </p>
+  <p id="para3" style="border: 2px solid red; padding: 20px;"><b><font style="color:red"><i>Définition :</i><br>&nbsp;&nbsp;&nbsp;&nbsp;
+  Opérationnalisme : consiste à définir des concepts en vue de les établir et de les éprouver en pratique et qui sont répétables (début du XXe
+ siècle)</font></p>
+ <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;→ Cette domination a pris comme moyen la technologie. 
+ <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;⮱ Une rationalisation par la technologie, dans le cadre du travail entre autre, qui a permis de produire plus en plus et plus vite. 
+ <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;⮱Perte de liberté de l’Homme dont on contrôle le temps et la production. 
+ <br><br>&nbsp;&nbsp; &nbsp;&nbsp;→ <font style="color:#FF0000"> référence à Hannah ARENDT </font>: la machine impose son rythme à l’ouvrier, sa cadence ; et le corps de l’ouvrier qui doit se plier à cette cadence (Temps Moderne, Charlie Chaplin)
+ <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;⮱ Plus de liberté d’initiative.</p>
+
+ <br><br>
+
+ <p id="para9"><u><b>Jean-Paul SARTRE, <i>La Nausée</i>, XX<sup>e</sup>siècle (p. 350)</b></u></p>
+     <button type="button" class="collapsible"><p id="para3"><b>Jean-Paul SARTRE</b>,<i>La Nausée</i>,
+     <br />Le réel est-il absurde?</p> </button>
+ <div class="content"><p id="para3"> 
 
 
 
 
+ </p></div>
+ <br><br>
+ <p id="para3">&nbsp;&nbsp;&nbsp;&nbsp; → Le constat de la difficulté à dire, ce qui est vécu : <font style="color:#FF0000">indicible ( ce qu’on ne peut pas dire)</font>
+ <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;⮱ L’absurdité = non sens de notre existence et de ce qui nous entoure.
+ <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;⮱ Je ne peux pas donner de raison à ses existences.
+ <br><br>&nbsp;&nbsp; &nbsp;&nbsp;→Pas de réponse au pourquoi de l’existence.
+ <br>&nbsp;&nbsp; &nbsp;&nbsp;→La racine est là, elle existe sans raison et je dois faire avec cette absence de raison ⟿ vacuité du sens. On est face au vide, c’est vertigineux. </p>
+ <center> <img src="image/8.jpg"  /></center><br><br>
+ 
+ <br><br>
+
+ <p id="para9"><u><b>Blaise PASCAL, <i>Pensées</i>, XVII<sup>e</sup>siècle (p. 354)</b></u></p>
+     <button type="button" class="collapsible"><p id="para3"><b>Blaise PASCAL</b>,<i>Pensées</i>,
+     <br />L'existence a-t-elle un sens?</p> </button>
+ <div class="content"><p id="para3"> 
 
 
 
 
-
-
-
+ </p></div>
+ <br><br>
+ <p id="para3">&nbsp;&nbsp;&nbsp;&nbsp; → « La misère de l’Homme » (l.1), c’est qu’il va mourir
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;⮱  Pourquoi existe-t-on si nous devons mourir ? 
+ <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Notre existence a-t-elle un sens ?</p>
+ <br> <center> <img src="image/9.jpg"  /></center><br><br>
+ <p id="para3">&nbsp;&nbsp;&nbsp;&nbsp;→ D’autres individus éprouvent le même désespoir
+ <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;⮱  └> Face au non-sens, la plupart d’entre nous, nous divertissons</p>.
+ <p id="para3" style="border: 2px solid red; padding: 20px;"><b><font style="color:red"><i>Définition :</i>
+  <br>&nbsp;&nbsp;&nbsp;&nbsp;Divertissement pascalien : du latin, divertere : se détourner</font></p>
+  <p id="para3"><br>&nbsp;&nbsp;&nbsp;&nbsp;Renvoie à toutes les activités auxquelles l’Homme s’adonne pour éviter de penser à sa mort.
+  <br>&nbsp;&nbsp;&nbsp;&nbsp;Il se détourne de l’évidence de sa mort.</p>
+  <p id="para3" style="border: 2px solid red; padding: 20px;"><b><font style="color:red"><i>Définition :</i>
+  <br>&nbsp;&nbsp;&nbsp;&nbsp;Pari pascalien : Une personne rationnelle a tout intérêt à croire en Dieu, que Dieu existe ou non. Car s’il existe, elle ira au Paradis ; tandis que s’il n’existe pas, elle n’a rien à perdre.</font></p>
 
 
 
