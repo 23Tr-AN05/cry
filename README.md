@@ -12,7 +12,7 @@
 
  <br />
  <p id="para3"> &nbsp;&nbsp; &nbsp;&nbsp;Les tentatives d’explication des phénomènes et du réel a semblé nécessaire à l’Homme pour se sentir moins étranger dans un monde inconnu, hostile.
- <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; => Religions, mythologies, croyances</p> 
+ <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; ⟾ Religions, mythologies, croyances</p> 
  <br>
  <br>
  <p id="para9"><u><b>LUCRÈCE, <i>De la nature des choses, II</i>, I<sup>e</sup>siècle avant J.-C.(p. 396)</b></u></p>
@@ -118,7 +118,7 @@
  <p id="para3">Ex : Colère de Zeus (mythe) / Phénomène électrostatique (science) => FOUDRE
  <br>
  <br>&nbsp;&nbsp; &nbsp;&nbsp;→ L’importance de l’imagination même en science
- <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;└> Face aux phénomènes, la scientifique imagine une théorie explicative du réel, donc de l’inconnu; cette théorie explicative est bornée par la logique et par les résultats des expérimentations.
+ <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;⮱ Face aux phénomènes, la scientifique imagine une théorie explicative du réel, donc de l’inconnu; cette théorie explicative est bornée par la logique et par les résultats des expérimentations.
  <br>&nbsp;&nbsp; &nbsp;&nbsp;Mais cette théorie explicative imaginée est toujours de l’ordre de la croyance.</p>
  <br><br>
  <p id="para9"><u><b>René DESCARTES, <i>Règles pour la direction de l’esprit</i>, XVII<sup>e</sup>siècle (p. 408)</b></u></p>
@@ -135,7 +135,7 @@
  <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;→ Différents domaines comme l’astronomie, la musique, la mécanique, utilisent les mathématiques, arithmétiques, la géométrie.</p>
  <br><center>  <img src="image/2.jpg" /></center><br>
  <p id="para3"><u>Ligne 19 </u>: La « Mathématique universelle » (<i>Mathesis universalis</i>) englobe tous les domaines pour expliquer le réel.
- <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;└> Les connaissances acquises par la mathématique vont permettre d’expliquer également des éléments nouveaux et complexes.</p>
+ <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;⮱ Les connaissances acquises par la mathématique vont permettre d’expliquer également des éléments nouveaux et complexes.</p>
  <br><br>
 
 
@@ -181,7 +181,7 @@
 
  <br>
  <br>&nbsp;&nbsp; &nbsp;&nbsp;→ Pour Nicolas MALBRANCHE, contrairement à René DESCARTES, Dieu est inaccessible à la pensée humaine qui est finie, tandis que Dieu est infini.
- <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; └> Nous ne pouvons pas penser l’infini.</p>
+ <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; ⮱ Nous ne pouvons pas penser l’infini.</p>
 
  <br><br>
  <p id="para9"><u><b>Blaise PASCAL, <i>Pensées</i>, XVII<sup>e</sup>siècle (p. 337)</b></u></p>
@@ -222,7 +222,7 @@
  <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;→Distinction entre la raison au sens de la rationalité (au service de la vérité) et avoir raison (au service de son ego, de son narcissisme).
  <br>
  <br> &nbsp;&nbsp; &nbsp;&nbsp;→ Situation : Des individus qui disputent, débattent.
-  <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;└> La nécessité de faire preuve de politesse. </p>
+  <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;⮱  La nécessité de faire preuve de politesse. </p>
   <p id="para3" style="border: 2px solid red; padding: 20px;"><b><font style="color:red"><i>Étymologies :</i><br>&nbsp;&nbsp;&nbsp;&nbsp;
   Politesse (de latin:<i>lisse</i>→ poli) : ne pas laisser s’exprimer son impulsivité ; idée de se contenir</font></b></p>
   <p id="para3">
@@ -245,7 +245,7 @@
  <br><br>
  <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;→La science moderne a fourni les outils rationnels de contrôle de la société.
  <br><br>&nbsp;&nbsp; &nbsp;&nbsp;→La science moderne a mis en place des théories mises en pratique d’abord en vue de dominer la nature. Et, ces théories ont également été appliquées pour dominer les Hommes. 
- <br>&nbsp;&nbsp; &nbsp;&nbsp;└> un contrôle, une maîtrise de la nature qui a conduit aux mêmes pratiques pour dominer les Hommes. </p>
+ <br>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;⮱ un contrôle, une maîtrise de la nature qui a conduit aux mêmes pratiques pour dominer les Hommes. </p>
   <p id="para3" style="border: 2px solid red; padding: 20px;"><font style="color:red"><i>Définition :</i><br>&nbsp;&nbsp;&nbsp;&nbsp;
   Opérationnalisme : consiste à définir des concepts en vue de les établir et de les éprouver en pratique et qui sont répétables (début du XXe
  siècle)</font></p>
