@@ -220,8 +220,11 @@
  <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;→Distinction entre la raison au sens de la rationalité (au service de la vérité) et avoir raison (au service de son ego, de son narcissisme).
  <br>
  <br> &nbsp;&nbsp; &nbsp;&nbsp;→ Situation : Des individus qui disputent, débattent.
-  <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;└> La nécessité de faire preuve de politesse. 
-  <br><font style="color:#FF0000">Politesse (lisse→ poli) : ne pas laisser s’exprimer son impulsivité ; idée de se contenir</font>
+  <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;└> La nécessité de faire preuve de politesse. </p>
+  <p id="para3" style="border: 2px solid red; padding: 20px;"><b><font style="color:red"><i>Étymologies :</i><br>&nbsp;&nbsp;&nbsp;&nbsp;
+  Politesse (lisse→ poli) : ne pas laisser s’exprimer son impulsivité ; idée de se contenir</font></b></p>
+  
+ <p id="para3">
   <br><br>&nbsp;&nbsp; &nbsp;&nbsp;→ La politesse sert la paix car elle implique de ne pas montrer à autrui qu’il se trompe et de soi-même assumer ses erreurs, ses fautes.<br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;(morale → mauvais comportement vis-à-vis d’autrui) 
   <br><br>&nbsp;&nbsp; &nbsp;&nbsp;→on ne recherche pas la justice au sens de la vérité.
   <br><br>&nbsp;&nbsp; &nbsp;&nbsp;→ La non expression de nos passions permet de maintenir la paix, grâce au savoir-vivre.</p>
@@ -287,7 +290,7 @@
  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Notre existence a-t-elle un sens ?</p>
  <br> <center> <img src="image/9.jpg"  /></center><br><br>
  <p id="para3">&nbsp;&nbsp;&nbsp;&nbsp;→ D’autres individus éprouvent le même désespoir
- <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;⮱  └> Face au non-sens, la plupart d’entre nous, nous divertissons</p>.
+ <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;⮱ Face au non-sens, la plupart d’entre nous, nous divertissons</p>.
  <p id="para3" style="border: 2px solid red; padding: 20px;"><font style="color:red"><i>Définition :</i>
   <br>&nbsp;&nbsp;&nbsp;&nbsp;Divertissement pascalien : du latin, divertere : se détourner</font></p>
   <p id="para3"><br>&nbsp;&nbsp;&nbsp;&nbsp;Renvoie à toutes les activités auxquelles l’Homme s’adonne pour éviter de penser à sa mort.
