@@ -5,8 +5,8 @@
  </head>
  <body>
  <p id="para1">QUELLE EST LA DIFFÉRENCE ENTRE LA SCIENCE ET LA CROYANCE?</p>
- <h2 id="para2">Quel est l’objet de la science?</h2>
- <h2 id="para2">Quelles sont les limites de la science?</h2>
+ <p id="para2">Quel est l’objet de la science?</p>
+ <p id="para2">Quelles sont les limites de la science?</p>
  <br />
   <font color="WHITE"><marquee direction="left" style="background:RED"><p id="para3">Les textes sont temporairement indisponibles</p></marquee></font> 
 
