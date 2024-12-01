@@ -8,6 +8,8 @@
  <h2 id="para2">Quel est l’objet de la science?</h2>
  <h2 id="para2">Quelles sont les limites de la science?</h2>
  <br />
+  <font color="WHITE"><marquee direction="left" style="background:RED"><p id="para3">Les textes sont temporairement indisponibles</p></marquee></font> 
+
  <br />
  <p id="para3"> &nbsp;&nbsp; &nbsp;&nbsp;Les tentatives d’explication des phénomènes et du réel a semblé nécessaire à l’Homme pour se sentir moins étranger dans un monde inconnu, hostile.
  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; => Religions, mythologies, croyances</p> 
@@ -222,9 +224,8 @@
  <br> &nbsp;&nbsp; &nbsp;&nbsp;→ Situation : Des individus qui disputent, débattent.
   <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;└> La nécessité de faire preuve de politesse. </p>
   <p id="para3" style="border: 2px solid red; padding: 20px;"><b><font style="color:red"><i>Étymologies :</i><br>&nbsp;&nbsp;&nbsp;&nbsp;
-  Politesse (lisse→ poli) : ne pas laisser s’exprimer son impulsivité ; idée de se contenir</font></b></p>
-  
- <p id="para3">
+  Politesse (de latin:<i>lisse</i>→ poli) : ne pas laisser s’exprimer son impulsivité ; idée de se contenir</font></b></p>
+  <p id="para3">
   <br><br>&nbsp;&nbsp; &nbsp;&nbsp;→ La politesse sert la paix car elle implique de ne pas montrer à autrui qu’il se trompe et de soi-même assumer ses erreurs, ses fautes.<br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;(morale → mauvais comportement vis-à-vis d’autrui) 
   <br><br>&nbsp;&nbsp; &nbsp;&nbsp;→on ne recherche pas la justice au sens de la vérité.
   <br><br>&nbsp;&nbsp; &nbsp;&nbsp;→ La non expression de nos passions permet de maintenir la paix, grâce au savoir-vivre.</p>
