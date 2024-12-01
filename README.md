@@ -242,7 +242,7 @@
  <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;→La science moderne a fourni les outils rationnels de contrôle de la société.
  <br><br>&nbsp;&nbsp; &nbsp;&nbsp;→La science moderne a mis en place des théories mises en pratique d’abord en vue de dominer la nature. Et, ces théories ont également été appliquées pour dominer les Hommes. 
  <br>&nbsp;&nbsp; &nbsp;&nbsp;└> un contrôle, une maîtrise de la nature qui a conduit aux mêmes pratiques pour dominer les Hommes. </p>
-  <p id="para3" style="border: 2px solid red; padding: 20px;"><b><font style="color:red"><i>Définition :</i><br>&nbsp;&nbsp;&nbsp;&nbsp;
+  <p id="para3" style="border: 2px solid red; padding: 20px;"><font style="color:red"><i>Définition :</i><br>&nbsp;&nbsp;&nbsp;&nbsp;
   Opérationnalisme : consiste à définir des concepts en vue de les établir et de les éprouver en pratique et qui sont répétables (début du XXe
  siècle)</font></p>
  <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;→ Cette domination a pris comme moyen la technologie. 
@@ -288,11 +288,11 @@
  <br> <center> <img src="image/9.jpg"  /></center><br><br>
  <p id="para3">&nbsp;&nbsp;&nbsp;&nbsp;→ D’autres individus éprouvent le même désespoir
  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;⮱  └> Face au non-sens, la plupart d’entre nous, nous divertissons</p>.
- <p id="para3" style="border: 2px solid red; padding: 20px;"><b><font style="color:red"><i>Définition :</i>
+ <p id="para3" style="border: 2px solid red; padding: 20px;"><font style="color:red"><i>Définition :</i>
   <br>&nbsp;&nbsp;&nbsp;&nbsp;Divertissement pascalien : du latin, divertere : se détourner</font></p>
   <p id="para3"><br>&nbsp;&nbsp;&nbsp;&nbsp;Renvoie à toutes les activités auxquelles l’Homme s’adonne pour éviter de penser à sa mort.
   <br>&nbsp;&nbsp;&nbsp;&nbsp;Il se détourne de l’évidence de sa mort.</p>
-  <p id="para3" style="border: 2px solid red; padding: 20px;"><b><font style="color:red"><i>Définition :</i>
+  <p id="para3" style="border: 2px solid red; padding: 20px;"><font style="color:red"><i>Définition :</i>
   <br>&nbsp;&nbsp;&nbsp;&nbsp;Pari pascalien : Une personne rationnelle a tout intérêt à croire en Dieu, que Dieu existe ou non. Car s’il existe, elle ira au Paradis ; tandis que s’il n’existe pas, elle n’a rien à perdre.</font></p>
 
 
